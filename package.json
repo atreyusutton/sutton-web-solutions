@@ -8,7 +8,8 @@
     "start": "next start",
     "preview": "next build && next start",
     "lint": "next lint",
-    "export": "next build && next export"
+    "export": "next build && next export",
+    "deploy": "echo 'Static files ready for deployment'"
   },
   "dependencies": {
     "next": "^14.0.0",
